@@ -1,0 +1,15 @@
+2021-10-24 19:36:07,612  INFO [main] ReadpropertyFile:35 - Driver is initialized
+2021-10-24 19:36:24,929  INFO [main] ReadpropertyFile:47 - Succesfully Login....
+2021-10-24 19:36:30,373  INFO [main] ReadpropertyFile:35 - Driver is initialized
+2021-10-24 19:36:49,870  INFO [main] ReadpropertyFile:47 - Succesfully Login....
+2021-10-24 19:37:08,921  INFO [main] ReadpropertyFile:95 - Add to Cart..moving to view cart
+2021-10-24 19:37:26,204 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-24 19:37:26,226 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-24 19:37:26,238 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 19:37:26,246 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 19:37:26,251 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/DELL-PC/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 19:37:27,288 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-24 19:37:27,290 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-24 19:37:27,294 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 19:37:27,295 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 19:37:27,296 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/DELL-PC/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
