@@ -1,0 +1,13 @@
+2021-11-17 17:49:07,252  INFO [main] HomePageStepDefination:44 - landing at home page
+2021-11-17 17:49:12,210  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-17 17:49:13,350  INFO [main] SignInStepDefination:46 -  entered
+2021-11-17 17:49:13,531  INFO [main] SignInStepDefination:49 -  entered
+2021-11-17 17:49:16,808  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-17 17:49:18,824  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-17 17:49:20,088  INFO [main] SignInStepDefination:46 - simon@123 entered
+2021-11-17 17:49:20,348  INFO [main] SignInStepDefination:49 - abcd entered
+2021-11-17 17:49:20,975  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-17 17:49:22,755  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-17 17:49:23,223  INFO [main] SignInStepDefination:46 - JackNJill@gmail.com entered
+2021-11-17 17:49:23,406  INFO [main] SignInStepDefination:49 - JackNJill entered
+2021-11-17 17:49:23,653  INFO [main] SignInStepDefination:56 - clicked on summit button

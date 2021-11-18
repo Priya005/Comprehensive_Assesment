@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-18T10:22:51 IST" name="Default suite" finished-at="2021-11-18T10:26:01 IST" duration-ms="189342">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-11-18T10:22:51 IST" name="Default test" finished-at="2021-11-18T10:26:01 IST" duration-ms="189342">
+      <class name="runnerBDD.BigSmallRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:22:51 IST" name="setUpClass" finished-at="2021-11-18T10:22:52 IST" duration-ms="445" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6abdec0e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:22:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:23:35 IST" duration-ms="43274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Opening the Browser and hitting the url"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Landing on webpage]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:23:36 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:23:51 IST" duration-ms="14985" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User is Signing In"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Sign In]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:23:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:23:56 IST" duration-ms="5455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User is Signing In"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Sign In]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:23:56 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:24:02 IST" duration-ms="5608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User is Signing In"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Sign In]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:24:02 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:24:13 IST" duration-ms="11361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Exploring the Personalized Gift section"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Explore]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:24:13 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:24:28 IST" duration-ms="14777" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Exploring by searching a product"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Exploring]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:24:28 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:25:23 IST" duration-ms="54851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Exploring the Christmas Gifts section"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Explore]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:25:23 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:25:37 IST" duration-ms="13937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Exploring the Shop By Category section"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Explore]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:25:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:25:43 IST" duration-ms="6240" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Exploring the AllOfIt section of the Web site"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Explore]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:25:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:25:51 IST" duration-ms="8118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Checking the Wishlist"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[WishList]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:25:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:25:54 IST" duration-ms="2681" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Going to About Us section in the web page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[About US]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:25:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-11-18T10:26:01 IST" duration-ms="6896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Adding the Gift Card"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Gidt Card]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runnerBDD.BigSmallRunner@4fb3ee4e]" started-at="2021-11-18T10:26:01 IST" name="tearDownClass" finished-at="2021-11-18T10:26:01 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runnerBDD.BigSmallRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
