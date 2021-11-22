@@ -54,13 +54,11 @@ public class ContactUsStepDefination {
 		if (cp.getTitle().getText().equalsIgnoreCase("contact us")) {
 			Assert.assertTrue(true);
 			log.info("Title verified successfully ");
+			driver.close();
 		}
 	}
 	
-	public void closeDriver() {
-		driver.close();
-		driver = null;
-	}
+
 
 
 
