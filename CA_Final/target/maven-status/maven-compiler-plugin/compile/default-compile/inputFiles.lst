@@ -1,20 +1,26 @@
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\appUIStrore\SearchBoxPageLocators.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\pageObjects\ShopingCardPage.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\utility\Listeners.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\pageObjects\AddToCardPage.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\pageObjects\SearchBoxPage.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\appUIStrore\SelectProductPageLocators.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\appUIStrore\ShopingCardPageLocators.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\utility\ExtentReporterNG.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\appUIStrore\SignInPageLocators.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\reusableComponent\WebDriverHelper.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\utility\Log.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\appUIStrore\HomePageLocators.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\utility\ReadPropertyFile.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\pageObjects\SelectProductPage.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\utility\RetreiveExcelData.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\pageObjects\HomePage.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\utility\TakeSS.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\appUIStrore\AddToCardPageLocators.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\pageObjects\SignInPage.java
-G:\MINDTREE\SDET JAVA TRACK\Selenium\HybridFrameworkInActualStructure\hybridFrameworkInActualStructure\src\main\java\com\mindtree\runner\AtlanticBooks.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\reusableComponent\WebDriverHelper.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\appUIStrore\SignInPageLocators.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\utility\RetreiveExcelData.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\appUIStrore\ChristmasGiftUI.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\pageObjects\PersonalizedGift.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\appUIStrore\AddToCardPageLocators.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\appUIStrore\PersonalizedGiftUI.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\pageObjects\AddToCardPage.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\appUIStrore\AllOfItUi.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\runner\BigSmall.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\utility\Listeners.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\pageObjects\WishListPage.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\utility\ExtentReporterNG.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\pageObjects\ChristmasGiftPage.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\utility\ReadPropertyFile.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\pageObjects\SignInPage.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\pageObjects\SearchBoxPage.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\appUIStrore\SearchBoxPageLocators.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\pageObjects\ShopByCategoryPage.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\appUIStrore\HomePageLocators.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\appUIStrore\WishListUi.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\pageObjects\AllOfItPage.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\utility\Log.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\pageObjects\HomePage.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\utility\TakeSS.java
+C:\Users\DELL-PC\eclipse-workspace\CA_Final\src\main\java\com\mindtree\appUIStrore\ShopByCategoryUI.java

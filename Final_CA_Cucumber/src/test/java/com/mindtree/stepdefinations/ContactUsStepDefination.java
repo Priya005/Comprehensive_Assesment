@@ -7,6 +7,7 @@ import org.apache.log4j.Logger;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
+import org.testng.annotations.AfterTest;
 
 import com.mindtree.pageObjects.ContactUsPage;
 import com.mindtree.utility.ReadPropertyFile;
@@ -54,10 +55,15 @@ public class ContactUsStepDefination {
 		if (cp.getTitle().getText().equalsIgnoreCase("contact us")) {
 			Assert.assertTrue(true);
 			log.info("Title verified successfully ");
-			driver.close();
+			
 		}
+		
 	}
-	
+	@AfterTest
+	public void closeDriver() {
+		driver.close();
+		driver = null;
+	}
 
 
 

@@ -34,10 +34,11 @@ public class PersonalizedGiftStepDefination {
 	}
 
 	@Then("Click on Sort By option")
-	public void click_on_sort_by_option() {
+	public void click_on_sort_by_option() throws InterruptedException {
 		//implementing sortby--> High to Low Price
 		      pg=new PersonalizedGift(driver);
 				pg.getsortby().click();
+				Thread.sleep(500);
 	}
 
 	@Then("Select the High To Low option")
