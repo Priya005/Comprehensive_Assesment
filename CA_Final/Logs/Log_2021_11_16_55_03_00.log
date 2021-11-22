@@ -1,0 +1,12 @@
+2021-11-16 15:57:03,154  INFO [main] BigSmall:60 - landing at home page
+2021-11-16 15:57:32,628  INFO [main] BigSmall:86 - clicked on sign button
+2021-11-16 15:57:33,916  INFO [main] BigSmall:94 -  entered
+2021-11-16 15:57:34,266  INFO [main] BigSmall:97 -  entered
+2021-11-16 15:58:06,922  INFO [main] BigSmall:99 - clicked on summit button
+2021-11-16 15:58:36,864  INFO [main] BigSmall:86 - clicked on sign button
+2021-11-16 15:58:38,379  INFO [main] BigSmall:94 - simon@123 entered
+2021-11-16 15:58:38,493  INFO [main] BigSmall:97 - abcd entered
+2021-11-16 15:59:11,850  INFO [main] BigSmall:151 - enterd product name
+2021-11-16 15:59:12,426  INFO [main] BigSmall:154 - Succesfully verified products are display!!
+2021-11-16 15:59:16,768  INFO [main] BigSmall:185 - Successfully navigated to christmas Gifts...
+2021-11-16 15:59:30,986  INFO [main] BigSmall:193 - Added product to Crad...
