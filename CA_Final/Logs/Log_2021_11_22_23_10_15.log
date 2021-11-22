@@ -1,0 +1,29 @@
+2021-11-22 22:24:05,870  INFO [main] BigSmall:61 - landing at home page
+2021-11-22 22:24:14,288  INFO [main] BigSmall:87 - clicked on sign button
+2021-11-22 22:24:16,685  INFO [main] BigSmall:95 -  entered
+2021-11-22 22:24:16,859  INFO [main] BigSmall:98 -  entered
+2021-11-22 22:24:22,689  INFO [main] BigSmall:100 - clicked on summit button
+2021-11-22 22:24:30,012  INFO [main] BigSmall:87 - clicked on sign button
+2021-11-22 22:24:31,734  INFO [main] BigSmall:95 - simon@123 entered
+2021-11-22 22:24:31,895  INFO [main] BigSmall:98 - abcd entered
+2021-11-22 22:24:34,603  INFO [main] BigSmall:100 - clicked on summit button
+2021-11-22 22:24:41,500  INFO [main] BigSmall:87 - clicked on sign button
+2021-11-22 22:24:43,133  INFO [main] BigSmall:95 - JackNJill@gmail.com entered
+2021-11-22 22:24:43,349  INFO [main] BigSmall:98 - JackNJill@123 entered
+2021-11-22 22:24:43,482  INFO [main] BigSmall:100 - clicked on summit button
+2021-11-22 22:25:02,503  INFO [main] BigSmall:120 - Successfully Sorted Products High to Low based on price
+2021-11-22 22:25:21,283  INFO [main] BigSmall:227 - added to wishList
+2021-11-22 22:26:07,965  INFO [main] BigSmall:152 - enterd product name
+2021-11-22 22:26:08,177  INFO [main] BigSmall:155 - Succesfully verified products are display!!
+2021-11-22 22:26:13,142  INFO [main] BigSmall:186 - Successfully navigated to christmas Gifts...
+2021-11-22 22:26:22,013  INFO [main] BigSmall:194 - Added product to Crad...
+2021-11-22 22:26:42,897  INFO [main] BigSmall:204 - Proceed to checkout and returned to cart !!
+2021-11-22 22:26:50,327  INFO [main] BigSmall:238 - Navigated to All of it Page
+2021-11-22 22:26:50,442  INFO [main] BigSmall:241 - Verified Auto Rickshaw Pen Stand
+2021-11-22 22:26:57,107  INFO [main] BigSmall:249 - Wishlist Page
+2021-11-22 22:26:59,464  INFO [main] BigSmall:256 - Products are displayed in Wishlist
+2021-11-22 22:27:02,739  INFO [main] BigSmall:262 - About Us Page
+2021-11-22 22:27:02,823  INFO [main] BigSmall:265 - Verified title of About Us Page
+2021-11-22 22:27:05,521  INFO [main] BigSmall:271 - Gift Cards Page
+2021-11-22 22:27:07,922  INFO [main] BigSmall:275 - Added Gift Card to cart
+2021-11-22 22:27:08,024  INFO [main] BigSmall:278 - Verified cart
