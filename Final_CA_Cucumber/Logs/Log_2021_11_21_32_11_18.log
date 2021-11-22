@@ -1,0 +1,33 @@
+2021-11-21 23:32:40,161  INFO [main] HomePageStepDefination:44 - landing at home page
+2021-11-21 23:32:53,103  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-21 23:32:53,798  INFO [main] SignInStepDefination:46 -  entered
+2021-11-21 23:32:54,356  INFO [main] SignInStepDefination:49 -  entered
+2021-11-21 23:32:54,531  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-21 23:32:57,253  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-21 23:32:57,801  INFO [main] SignInStepDefination:46 - Priya@123 entered
+2021-11-21 23:32:57,939  INFO [main] SignInStepDefination:49 - Hello entered
+2021-11-21 23:32:58,042  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-21 23:33:00,323  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-21 23:33:01,578  INFO [main] SignInStepDefination:46 - priyankabodke345@gmail.com entered
+2021-11-21 23:33:01,726  INFO [main] SignInStepDefination:49 - Priya@99 entered
+2021-11-21 23:33:04,986  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-21 23:33:14,938  INFO [main] PersonalizedGiftStepDefination:55 - Successfully Sorted Products High to Low based on price
+2021-11-21 23:33:15,537  INFO [main] SearchProductStepDefiantion:33 - Search Box Activated
+2021-11-21 23:33:28,118  INFO [main] SearchProductStepDefiantion:48 - enterd product name
+2021-11-21 23:33:28,120  INFO [main] SearchProductStepDefiantion:53 - Successfully searched product - Diary
+2021-11-21 23:33:28,798  INFO [main] SearchProductStepDefiantion:62 - Succesfully verified products are display!!
+2021-11-21 23:33:34,461  INFO [main] ChristmasGiftStepDefination:29 - Successfully navigated to christmas Gifts...
+2021-11-21 23:33:49,197  INFO [main] ChristmasGiftStepDefination:43 - Added product to Crad...
+2021-11-21 23:34:21,983  INFO [main] ChristmasGiftStepDefination:59 - Proceed to checkout and returned to cart !!
+2021-11-21 23:34:36,926  INFO [main] ShopByCategoryStepDefination:54 - added to wishList
+2021-11-21 23:34:41,109  INFO [main] AllOfItStepDefination:26 - Navigated to All of it Page
+2021-11-21 23:34:43,257  INFO [main] AllOfItStepDefination:35 - Verified Auto Rickshaw Pen Stand
+2021-11-21 23:34:49,075  INFO [main] WishListStepDefination:29 - Wishlist Page
+2021-11-21 23:34:51,467  INFO [main] WishListStepDefination:43 - Products are displayed in Wishlist
+2021-11-21 23:34:54,298  INFO [main] AboutUsStepDefination:27 - About Us Page
+2021-11-21 23:34:54,400  INFO [main] AboutUsStepDefination:33 - Verified title of About Us Page
+2021-11-21 23:34:57,035  INFO [main] GiftCardStepDefination:27 - Gift Cards Page
+2021-11-21 23:34:59,495  INFO [main] GiftCardStepDefination:34 - Added Gift Card to cart
+2021-11-21 23:34:59,594  INFO [main] GiftCardStepDefination:41 - Verified cart
+2021-11-21 23:35:02,239  INFO [main] ContactUsStepDefination:36 - contact us page open...
+2021-11-21 23:35:03,587  INFO [main] ContactUsStepDefination:56 - Title verified successfully 

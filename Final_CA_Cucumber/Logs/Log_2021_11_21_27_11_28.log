@@ -1,0 +1,6 @@
+2021-11-21 23:29:04,274  INFO [main] HomePageStepDefination:44 - landing at home page
+2021-11-21 23:29:22,462  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-21 23:29:26,631  INFO [main] SignInStepDefination:46 -  entered
+2021-11-21 23:29:27,361  INFO [main] SignInStepDefination:49 -  entered
+2021-11-21 23:29:53,087  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-21 23:30:23,055  INFO [main] SearchProductStepDefiantion:33 - Search Box Activated

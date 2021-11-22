@@ -1,0 +1,10 @@
+2021-11-18 21:25:47,083  INFO [main] HomePageStepDefination:44 - landing at home page
+2021-11-18 21:26:01,423  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-18 21:26:06,456  INFO [main] SignInStepDefination:46 -  entered
+2021-11-18 21:26:06,795  INFO [main] SignInStepDefination:49 -  entered
+2021-11-18 21:26:22,404  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-18 21:26:26,501  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-18 21:26:56,133  INFO [main] SignInStepDefination:46 - simon@123 entered
+2021-11-18 21:26:56,378  INFO [main] SignInStepDefination:49 - abcd entered
+2021-11-18 21:26:59,349  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-18 21:26:59,474  INFO [main] SearchProductStepDefiantion:33 - Search Box Activated

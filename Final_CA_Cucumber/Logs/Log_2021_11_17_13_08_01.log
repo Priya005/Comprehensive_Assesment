@@ -1,0 +1,19 @@
+2021-11-17 20:14:47,437  INFO [main] HomePageStepDefination:44 - landing at home page
+2021-11-17 20:14:58,195  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-17 20:15:01,887  INFO [main] SignInStepDefination:46 -  entered
+2021-11-17 20:15:02,257  INFO [main] SignInStepDefination:49 -  entered
+2021-11-17 20:15:12,204  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-17 20:15:16,047  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-17 20:15:16,868  INFO [main] SignInStepDefination:46 - simon@123 entered
+2021-11-17 20:15:17,102  INFO [main] SignInStepDefination:49 - abcd entered
+2021-11-17 20:15:21,186  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-17 20:15:24,132  INFO [main] SignInStepDefination:37 - clicked on sign button
+2021-11-17 20:15:24,854  INFO [main] SignInStepDefination:46 - JackNJill@gmail.com entered
+2021-11-17 20:15:25,016  INFO [main] SignInStepDefination:49 - JackNJill entered
+2021-11-17 20:15:25,132  INFO [main] SignInStepDefination:56 - clicked on summit button
+2021-11-17 20:15:39,072  INFO [main] SearchProductStepDefiantion:33 - Search Box Activated
+2021-11-17 20:15:49,881  INFO [main] SearchProductStepDefiantion:48 - enterd product name
+2021-11-17 20:15:49,882  INFO [main] SearchProductStepDefiantion:53 - Successfully searched product - Diary
+2021-11-17 20:15:50,458  INFO [main] SearchProductStepDefiantion:62 - Succesfully verified products are display!!
+2021-11-17 20:15:55,080  INFO [main] ChristmasGiftStepDefination:29 - Successfully navigated to christmas Gifts...
+2021-11-17 20:16:07,172  INFO [main] ChristmasGiftStepDefination:43 - Added product to Crad...
